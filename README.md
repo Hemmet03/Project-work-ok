@@ -2,7 +2,7 @@
 
 Una Landing Page professionale progettata per offrire una guida completa sulla valutazione dei rischi nei luoghi di lavoro. Il progetto si rivolge a Datori di Lavoro, RSPP e consulenti della sicurezza, integrando normative italiane (D.Lgs 81/08) e standard internazionali (ISO 31000).
 
-[Visualizza la Demo Live](https://hemmet03.github.io/Project-work-ok/)
+[Visualizza landing page Live](https://hemmet03.github.io/Project-work-ok/)
 
 ---
 
