@@ -42,6 +42,7 @@ Il progetto sfrutta le seguenti risorse esterne:
 ├── Documenti/              # File PDF scaricabili (Guida Analisi Rischio)
 ├── index.html              # File principale della landing page
 └── README.md               # Documentazione del progetto
+```
 
 ## Autore
 Sviluppato da Francesco Testore
