@@ -39,7 +39,7 @@ Il progetto sfrutta le seguenti risorse esterne:
 .
 ├── Favicon/                # Icone per browser e dispositivi mobili
 ├── Immagini/               # Asset grafici (logo, casco, grafici)
-├── Documenti/              # File PDF scaricabili (Guida Analisi Rischio)
+├── Documenti/              # File PDF scaricabile (Guida Analisi Rischio)
 ├── index.html              # File principale della landing page
 └── README.md               # Documentazione del progetto
 ```
