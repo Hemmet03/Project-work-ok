@@ -7,11 +7,11 @@ Una Landing Page professionale progettata per offrire una guida completa sulla v
 ---
 
 ## Indice
-* [Caratteristiche](#-Caratteristiche)
-* [Tech Stack](#-Tech-Stack)
-* [Librerie Utilizzate](#-Librerie-utilizzate)
-* [Struttura del Progetto](#-Struttura-del-Progetto)
-* [Autore](#-Autore)
+* [Caratteristiche](#Caratteristiche)
+* [Tech Stack](#Tech-Stack)
+* [Librerie Utilizzate](#Librerie-utilizzate)
+* [Struttura del Progetto](#Struttura-del-Progetto)
+* [Autore](#Autore)
 
 ---
 
