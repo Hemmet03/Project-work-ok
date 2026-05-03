@@ -9,8 +9,8 @@ Una Landing Page professionale progettata per offrire una guida completa sulla v
 ## Indice
 * [Caratteristiche](#-caratteristiche)
 * [Tech Stack](#-tech-stack)
-* [Struttura del Progetto](#-struttura-del-progetto)
 * [Librerie Utilizzate](#-librerie-utilizzate)
+* [Struttura del Progetto](#-struttura-del-progetto)
 * [Autore](#-autore)
 
 ---
@@ -28,6 +28,12 @@ Una Landing Page professionale progettata per offrire una guida completa sulla v
 * **Tipografia:** Google Fonts (Inter)
 * **Scripting:** JavaScript (per la generazione del QR Code)
 
+## Librerie utilizzate
+Il progetto sfrutta le seguenti risorse esterne:
+* **Bootstrap 5**: Framework CSS.
+* **QRCode.js**: Libreria JavaScript per la generazione di codici QR.
+* **Google Fonts**: Font "Inter".
+
 ## Struttura del Progetto
 ```text
 .
@@ -36,3 +42,6 @@ Una Landing Page professionale progettata per offrire una guida completa sulla v
 ├── Documenti/              # File PDF scaricabili (Guida Analisi Rischio)
 ├── index.html              # File principale della landing page
 └── README.md               # Documentazione del progetto
+
+## Autore
+Sviluppato da Francesco Testore
